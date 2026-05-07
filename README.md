@@ -56,12 +56,20 @@
 
 ## 🚀 主要项目
 
+### 🤖 [Robotcub-ROS-Car](https://github.com/yaosainan/robotcub-ros-car)
+
+> **比赛级智能小车完整方案**
+
+集成激光雷达避障、双摄像头视觉感知、YOLOv5 标志识别、OpenCV 巡线、底盘控制与 ROS 导航栈。
+9 个独立 ROS 包,完整工程化实现。
+
+`ROS` `Lidar` `YOLOv5` `OpenCV` `Navigation` `C++` `Python`
+
 ### 🚗 [Road-Recognition-ROS-Car](https://github.com/yaosainan/Road-Recognition-ROS-Car-)
 
 > **基于 ROS 的智能小车感知与控制系统**
 
-集成底盘控制、OpenCV 巡线检测、YOLOv5 标志牌识别。
-完成从图像处理 → 决策 → 底层电机控制的全链路落地。
+集成底盘控制、OpenCV 巡线检测、YOLOv5 标志牌识别。完成从图像处理 → 决策 → 底层电机控制的全链路落地。
 
 `ROS` `OpenCV` `YOLOv5` `TensorRT` `Python` `C++`
 
@@ -72,7 +80,6 @@
 利用 rPPG 原理,通过摄像头捕捉面部血流引起的肤色微小变化,实时推算心率。
 
 `Computer Vision` `OpenCV` `Real-time` `Python`
-
 ---
 
 ## 📊 GitHub 数据
