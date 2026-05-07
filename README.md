@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:2832708172@qq.com">
-    <img src="https://img.shields.io/badge/Email-2832708172@qq.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:m202573630@hust.edu.cn">
+    <img src="https://img.shields.io/badge/Email-m202573630@hust.edu.cn-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-China-blue?style=flat-square" />
