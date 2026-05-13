@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>🎓 M.S. Student @ HUST · Control Science & Engineering</b><br/>
-  <em>Computer Vision · Robotics · Fault Detection · Open to 2028 Campus Recruitment</em>
+  <em>Computer Vision · Robotics · Fault Detection</em><br/>
+  <b>💼 正在寻找 2026 年暑期算法 / 机器学习实习机会</b>
 </p>
 
 <p align="center">
